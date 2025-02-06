@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Sulo. 
+
 
 <!--
 **suloo2092/suloo2092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
